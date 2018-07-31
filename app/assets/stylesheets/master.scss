@@ -32,3 +32,11 @@ body {
   font-family: 'fira_sanslight';
   font-size: 28px;
 }
+
+.pagination a {
+  border: 1px solid #ddd; /* Gray */
+}
+
+.pagination {
+    display: inline-block;
+}
